@@ -66,7 +66,9 @@ me.say_hi()
 
 <h3 align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saud-97&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=saud-97&show_icons=true&theme=radical" />
 </h3>
-
+<h3 align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saud-97&theme=radical" />
+</h3>
 
