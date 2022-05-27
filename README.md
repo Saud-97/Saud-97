@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Saud.;I+am+a+Full+Stack+Developer+from+the+Saudi+Arabia." />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Saud.;I+am+a+Full+Stack+Developer+from+Saudi+Arabia." />
   </a>
   <br>
   
