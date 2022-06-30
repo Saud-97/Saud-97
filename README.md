@@ -9,7 +9,7 @@
   </a>
   <br>
 </p>
- 
+
 <h1></h1>
 
 <h2 align="center"> ✨ About Me ✨</h2>
@@ -27,11 +27,11 @@ class AboutMe:
         self.role = "Computer Scientest and Information Security Analyst"
         self.languages_spoken = ["Arabic", "English"]
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
-        self.opened_issues: 63,
-        self.opened_pull_requests: 31,
-        self.total_commits: 127,
+        self.opened_issues: {{ ISSUES }},
+        self.opened_pull_requests: {{ PULL_REQUESTS }},
+        self.total_commits: {{ COMMITS }},
         self.stars: 3,
-        self.repositories: { created: 8, contributed: 17 },
+        self.repositories: { created: {{ REPOSITORIES }}, contributed: {{ REPOSITORIES_CONTRIBUTED_TO }} },
         
     def say_hi(self):
         print("Thanks for visiting my github profile. Have a great day ahead!")
@@ -83,5 +83,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Thu Jun 30 2022 17:02:21 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Jun 30 2022 17:13:13 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 30th June 2022 using magic</i> ✨
