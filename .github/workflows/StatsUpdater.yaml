@@ -3,7 +3,7 @@ name: Generate README.md
 on:
   workflow_run:
     workflows: ["Main ReadMe Updater"]
-    branches: [master]
+    branches: [main]
     types: 
       - completed
 
