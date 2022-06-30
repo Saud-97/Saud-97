@@ -1,0 +1,13 @@
+{
+  "name": "Saud-97",
+  "version": "1.0.0",
+  "description": "About me by myself",
+  "main": "src/update.js",
+  "repository": "https://github.com/Saud-97/Saud",
+  "author": "Saud <saud.aljaffer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}
