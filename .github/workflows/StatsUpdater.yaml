@@ -18,7 +18,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.1
+      uses: teoxoy/profile-readme-stats@v1.2
       with:
         token: ${{ secrets.G_TOKEN }}
         includeForks: true
@@ -29,7 +29,7 @@ jobs:
         git config user.name "${GITHUB_ACTOR}"
         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add .
-        git commit -am "Generated README.md"
+        git commit -am "Updated Stats"
         git push --all -f https://${{ secrets.G_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
         fi
 
