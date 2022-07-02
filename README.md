@@ -27,11 +27,11 @@ class AboutMe:
         self.role = "Computer Scientest and Information Security Analyst"
         self.languages_spoken = ["Arabic", "English"]
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
-        self.opened_issues: 65,
-        self.opened_pull_requests: 31,
-        self.total_commits: 212,
+        self.opened_issues: {{ ISSUES }},
+        self.opened_pull_requests: {{ PULL_REQUESTS }},
+        self.total_commits: {{ COMMITS }},
         self.stars: 3,
-        self.repositories: { created: 6, contributed: 17 },
+        self.repositories: { created: {{ REPOSITORIES }}, contributed: {{ REPOSITORIES_CONTRIBUTED_TO }} },
         
     def say_hi(self):
         print("Thanks for visiting my github profile. Have a great day ahead!")
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Sat Jul 02 2022 09:14:05 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Jul 02 2022 10:16:16 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 2nd July 2022 using magic</i> ✨
