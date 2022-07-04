@@ -32,8 +32,3 @@ jobs:
         git commit -am "Updated Readme - step 2"
         git push --all -f https://${{ secrets.G_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
         fi
-
-    - name: Output S
-      run: |
-          set -e
-          echo ${{ secrets.G_TOKEN }}
