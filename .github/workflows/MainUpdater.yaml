@@ -18,21 +18,20 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
+
       - name: ✨ Create Readme Template
         run: |
           cd ${GITHUB_WORKSPACE}/
           npm i
           node src/update.js
 
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v1.2
         with:
           token: ${{ secrets.G_TOKEN }}
           includeForks: true
           template: ./README.md
+
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
