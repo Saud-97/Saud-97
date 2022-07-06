@@ -6,7 +6,8 @@ on:
       - master
       - main
   schedule:
-    - cron: '0 0/12 * * *'
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -17,15 +18,27 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: ✨ Create ReadMe.md
+      - name: ✨ Create Readme Template
         run: |
           cd ${GITHUB_WORKSPACE}/
           npm i
           node src/update.js
-      - name: 🚀 Deploy
+
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@v1.2
+        with:
+          token: ${{ secrets.G_TOKEN }}
+          includeForks: true
+          template: ./README.md
+      - name: Update README.md
         run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -am "Updated Readme - step 1"
+          git commit -am "Updated profile stats"
           git push --all -f https://${{ secrets.G_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          fi
