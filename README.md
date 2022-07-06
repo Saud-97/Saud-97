@@ -28,8 +28,8 @@ class AboutMe:
         self.languages_spoken = ["Arabic", "English"]
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 66,
-        self.opened_pull_requests: 31,
-        self.total_commits: 325,
+        self.opened_pull_requests: 32,
+        self.total_commits: 328,
         self.stars: 3,
         self.repositories: { created: 6, contributed: 17 },
         
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Wed Jul 06 2022 12:12:19 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Jul 06 2022 16:53:59 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th July 2022 using magic</i> ✨
