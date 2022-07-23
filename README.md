@@ -29,7 +29,7 @@ class AboutMe:
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 70,
         self.opened_pull_requests: 32,
-        self.total_commits: 348,
+        self.total_commits: 350,
         self.stars: 3,
         self.repositories: { created: 6, contributed: 17 },
         
@@ -69,7 +69,7 @@ me.say_hi()
   
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats-s97.herokuapp.com/?user=saud-97&theme=tokyonight">
+<img src="https://github-readme-streak-stats-saud-97.vercel.app/?user=saud-97&theme=tokyonight">
 </p>
 
   <p align="center">
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Sat Jul 23 2022 01:03:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Jul 23 2022 15:37:34 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 23th July 2022 using magic</i> ✨
