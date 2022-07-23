@@ -104,7 +104,7 @@ me.say_hi()
   
 <h2 align="center"> ${special?special[1]:"🚀"} My Stats ${special?special[1]:"🚀"}</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats-saud-97.vercel.app/?user=saud-97&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saud-97&theme=tokyonight">
 </p>
 
   <p align="center">
