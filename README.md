@@ -27,9 +27,9 @@ class AboutMe:
         self.role = "Computer Scientest and Information Security Analyst"
         self.languages_spoken = ["Arabic", "English"]
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
-        self.opened_issues: 71,
-        self.opened_pull_requests: 32,
-        self.total_commits: 401,
+        self.opened_issues: 72,
+        self.opened_pull_requests: 33,
+        self.total_commits: 402,
         self.stars: 3,
         self.repositories: { created: 6, contributed: 17 },
         
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Sun Sep 04 2022 01:07:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 4th September 2022 using magic</i> ✨
+<!-- Last updated on Mon Sep 05 2022 01:19:11 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 5th September 2022 using magic</i> ✨
