@@ -12,7 +12,7 @@
 
 <h1></h1>
 
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 
 ```python
@@ -29,7 +29,7 @@ class AboutMe:
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 74,
         self.opened_pull_requests: 33,
-        self.total_commits: 488,
+        self.total_commits: 489,
         self.stars: 5,
         self.repositories: { created: 6, contributed: 17 },
         
@@ -41,14 +41,14 @@ me.say_hi()
 ```
 
 
-<h2 align="center"> ✨ Contact Me ✨</h2>
+<h2 align="center"> ⛄ Contact Me ⛄</h2>
 
 <p align="center">
   Discord: S97#6758
 </p>
 
 
-<h2 align="center"> ✨ Technologies & Tools ✨</h2>
+<h2 align="center"> ⛄ Technologies & Tools ⛄</h2>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
@@ -67,7 +67,7 @@ me.say_hi()
   
 
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saud-97&theme=tokyonight">
 </p>
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Wed Nov 30 2022 00:57:54 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th November 2022 using magic</i> ✨
+<!-- Last updated on Thu Dec 01 2022 01:02:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st December 2022 using magic</i> 🎄
