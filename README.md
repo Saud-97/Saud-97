@@ -29,9 +29,9 @@ class AboutMe:
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 77,
         self.opened_pull_requests: 33,
-        self.total_commits: 670,
+        self.total_commits: 671,
         self.stars: 7,
-        self.repositories: { created: 6, contributed: 14 },
+        self.repositories: { created: 6, contributed: 13 },
         
     def say_hi(self):
         print("Thanks for visiting my github profile. Have a great day ahead!")
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Tue May 30 2023 00:53:29 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th May 2023 using magic</i> ✨
+<!-- Last updated on Wed May 31 2023 00:57:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 31th May 2023 using magic</i> ✨
