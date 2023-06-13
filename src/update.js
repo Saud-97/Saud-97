@@ -79,6 +79,7 @@ me.say_hi()
 <h2 align="center"> ${special?special[0]:"✨"} Contact Me ${special?special[0]:"✨"}</h2>
 
 <p align="center">
+  Discord: s97
   Discord: S97#6758
 </p>
 
