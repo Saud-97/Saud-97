@@ -29,8 +29,8 @@ class AboutMe:
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 77,
         self.opened_pull_requests: 33,
-        self.total_commits: 683,
-        self.stars: 7,
+        self.total_commits: 684,
+        self.stars: NaN,
         self.repositories: { created: 6, contributed: 8 },
         
     def say_hi(self):
@@ -81,5 +81,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Mon Jun 12 2023 01:00:24 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 12th June 2023 using magic</i> ✨
+<!-- Last updated on Tue Jun 13 2023 00:57:05 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 13th June 2023 using magic</i> ✨
