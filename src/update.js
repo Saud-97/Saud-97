@@ -80,6 +80,8 @@ me.say_hi()
 
 <p align="center">
   Discord: s97
+</p>
+<p align="center">
   Discord: S97#6758
 </p>
 
