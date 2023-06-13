@@ -29,7 +29,7 @@ class AboutMe:
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
         self.opened_issues: 77,
         self.opened_pull_requests: 33,
-        self.total_commits: 686,
+        self.total_commits: 688,
         self.stars: 7,
         self.repositories: { created: 6, contributed: 8 },
         
@@ -45,6 +45,8 @@ me.say_hi()
 
 <p align="center">
   Discord: s97
+</p>
+<p align="center">
   Discord: S97#6758
 </p>
 
@@ -82,5 +84,5 @@ me.say_hi()
   </p>
   
   <h1></h1>
-<!-- Last updated on Tue Jun 13 2023 19:20:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Jun 13 2023 19:22:29 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 13th June 2023 using magic</i> ✨
