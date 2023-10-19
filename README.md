@@ -26,12 +26,7 @@ class AboutMe:
         self.name = "Saud Aljaffer"
         self.role = "Computer Scientest and Information Security Analyst"
         self.languages_spoken = ["Arabic", "English"]
-        self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"],
-        self.opened_issues: 78,
-        self.opened_pull_requests: 34,
-        self.total_commits: 837,
-        self.stars: 8,
-        self.repositories: { created: 6, contributed: 5 },
+        self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"]
         
     def say_hi(self):
         print("Thanks for visiting my github profile. Have a great day ahead!")
@@ -85,4 +80,4 @@ me.say_hi()
   
   <h1></h1>
 <!-- Last updated on Thu Oct 19 2023 00:42:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 19th October 2023 using magic</i> ✨
+<i>Last updated on 20th October 2023 using magic</i> ✨
