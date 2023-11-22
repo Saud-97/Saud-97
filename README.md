@@ -39,11 +39,9 @@ me.say_hi()
 <h2 align="center"> ✨ Contact Me ✨</h2>
 
 <p align="center">
-  Discord: s97
+  Discord: s97 [ Direct Link ](https://dsc.gg/s97)
 </p>
-<p align="center">
-  Discord: S97#6758
-</p>
+
 
 
 <h2 align="center"> ✨ Technologies & Tools ✨</h2>
