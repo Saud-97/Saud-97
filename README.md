@@ -45,25 +45,6 @@ me.say_hi()
 <p align="center">
   https://dsc.gg/s97
 </p>
-
-
-
-<h2 align="center"> ✨ Technologies & Tools ✨</h2>
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-<h1></h1>
   
 
   
@@ -75,11 +56,8 @@ me.say_hi()
   <p align="center">
  <img class="img" src="https://saud-97-github-readme-stats.vercel.app/api?username=saud-97&show_icons=true&theme=radical" />
 </h3>
-<h3 align="center">
- <img class="img" src="https://saud-97-github-readme-stats.vercel.app/api/top-langs/?username=saud-97&theme=radical&layout=compact" />
-</h3>
+
   </p>
   
   <h1></h1>
-<!-- Last updated on Thu Oct 19 2023 00:42:48 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th October 2023 using magic</i> ✨
+
