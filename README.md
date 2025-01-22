@@ -23,8 +23,8 @@
 class AboutMe:
 
     def __init__(self):
-        self.name = "Saud Aljaffer"
-        self.role = "Computer Scientest and Information Security Analyst"
+        self.name = "Saud"
+        self.role = "Computer Scientest and Cybersecurity Specialist"
         self.languages_spoken = ["Arabic", "English"]
         self.programming_languages: ["Javascript/Typescript", "Python", "C#", "Kotlin", "Java", "Bash"]
         
